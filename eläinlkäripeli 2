@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="fi">
+<head>
+  <meta charset="UTF-8">
+  <title>Eläinsairaala</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background-color: #eaf6f6;
+      text-align: center;
+      padding: 40px;
+    }
+    .sairaala {
+      background-color: #ffffff;
+      border: 3px solid #aac;
+      border-radius: 15px;
+      padding: 20px;
+      width: 400px;
+      margin: 0 auto;
+      box-shadow: 0 0 20px rgba(0, 0, 0, 0.2);
+    }
+    h1 {
+      color: #336;
+    }
+    .potilas {
+      font-size: 20px;
+      margin-botto
